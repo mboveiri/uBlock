@@ -438,6 +438,15 @@
 		"contentURL": "https://gitcdn.xyz/repo/farrokhi/adblock-iran/master/filter.txt",
 		"supportURL": "https://github.com/farrokhi/adblock-iran"
 	},
+	"IRN-1": {
+		"content": "filters",
+		"group": "regions",
+		"off": true,
+		"title": "IRN: Iran Ublock List",
+		"lang": "fa",
+		"contentURL": "https://raw.githubusercontent.com/mboveiri/ublock-iran/master/fa-ir-adblist.txt",
+		"supportURL": "https://github.com/mboveiri/ublock-iran"
+	},
 	"ISL-0": {
 		"content": "filters",
 		"group": "regions",
